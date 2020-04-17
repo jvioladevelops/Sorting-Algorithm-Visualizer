@@ -1,0 +1,130 @@
+ 
+@media screen and (min-width:761px) {
+    .array-container {
+     position: relative;
+     bottom:0px;
+     vertical-align: center;
+     text-align: center;
+     width:100vw;
+     height: 39vw;
+    }
+    .array-bar {
+     width: 5.5px;
+     display: inline-block; 
+     margin: 0 2px; 
+ }
+ .buttons{
+     background-color: rgb(25, 79, 38);
+     
+     vertical-align: left;
+ }
+ 
+ .buttons button {
+     border: none;
+     color: white;
+     outline: 0;
+     display: inline-block;
+     font: 20px "Arial Black", Gadget, sans-serif;
+ }
+ .buttons button:not(:last-child) {
+     border-bottom: none;
+ }
+   }
+   
+   @media screen and (max-width:760px) {
+     .array-container {
+         position: relative;
+         bottom:0px;
+         vertical-align: center;
+         text-align: center;
+         width: 200vw;
+         height: 39vw;
+        }
+        .array-bar {
+         width: 5.5px;
+         display: inline-block;
+         margin: 0 2px;
+     }
+     .buttons{
+         background-color: rgb(25, 79, 38);
+         
+         vertical-align: left;
+     }
+     
+     .buttons button {
+         border: none;
+         color: white;
+         outline: 0;
+         display: inline-block;
+         font: 20px "Arial Black", Gadget, sans-serif;
+     }
+     .buttons button:not(:last-child) {
+         border-bottom: none;
+     }
+   }
+   
+   @media screen and (max-width:480px) {
+     .array-container {
+         position: relative;
+         bottom:0px;
+         vertical-align: center;
+         text-align: center;
+                 width: 200vw;
+         height: 30vw;
+        }
+        .array-bar {
+         width: 5.5px;
+         display: inline-block;
+         margin: 0 2px;
+     }
+     .buttons{
+         background-color: rgb(25, 79, 38);
+         
+         vertical-align: left;
+     }
+     
+     .buttons button {
+         border: none;
+         color: white;
+         outline: 0;
+         display: inline-block;
+         font: 20px "Arial Black", Gadget, sans-serif;
+     }
+     .buttons button:not(:last-child) {
+         border-bottom: none;
+     }
+   }
+   
+   @media screen and (max-width:360px) {
+     .array-container {
+         position: relative;
+         bottom:0px;
+         vertical-align: center;
+         text-align: center;
+         width: 200vw;
+         height: 30vw;
+        }
+        .array-bar {
+         width: 5.5px;
+         display: inline-block;
+         margin: 0 2px;
+     }
+     .buttons{
+         background-color: rgb(25, 79, 38);
+         
+         vertical-align: left;
+     }
+     
+     .buttons button {
+         border: none;
+         color: white;
+         outline: 0;
+         display: inline-block;
+         font: 20px "Arial Black", Gadget, sans-serif;
+     }
+     .buttons button:not(:last-child) {
+         border-bottom: none;
+     }
+   }
+ 
+ 
