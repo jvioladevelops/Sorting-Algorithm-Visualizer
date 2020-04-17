@@ -19,7 +19,7 @@ let MAX_INTEGER = 500;
 const PRIMARY_COLOR = 'white';
 const SECONDARY_COLOR = 'red'; 
 const ANIMATION_SPEED_MS = 2; 
-const ANIMATION_SPEED_MS_BUBBLE_SELECTION = 0.75;
+const ANIMATION_SPEED_MS_BUBBLE_SELECTION = 0.5;
 
 /**
  * Grabbing a random integer from interval to create a random array 
